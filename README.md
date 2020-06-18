@@ -1,6 +1,6 @@
 # Projeto de Mapeamento Covid 19
 
-Projeto retirado do Digital Innovation: Acrescentei países, mo
+Projeto retirado do Digital Innovation. Adicionei países: Rússia e India, adicionei as flags: Espanha, Russia e India
 
 Projeto para mapear e interpretar os dados de Covid 19 consumindo uma API com ReactJS e PWA.
 
