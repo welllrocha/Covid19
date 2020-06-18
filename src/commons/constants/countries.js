@@ -3,6 +3,10 @@ import ChinaFlag from "../../assets/images/china.png";
 import GermanyFlag from "../../assets/images/germany.png";
 import ItalyFlag from "../../assets/images/italy.png";
 import UsaFlag from "../../assets/images/usa.png";
+import SpainFlag from "../../assets/images/spain.png";
+import RussiaFlag from "../../assets/images/russia.png";
+import IndiaFlag from "../../assets/images/india.png";
+
 
 const COUNTRIES = [
   {
@@ -18,11 +22,11 @@ const COUNTRIES = [
   {
     label: "Espanha",
     value: "spain",
-    flag: BrazilFlag,
+    flag: SpainFlag,
   },
   { label: "Russia",
     value: "russia",
-    flag: BrazilFlag,
+    flag: RussiaFlag,
   },
   {
     label: "China",
@@ -35,10 +39,16 @@ const COUNTRIES = [
     flag: UsaFlag,
   },
   {
+    label: "India",
+    value: "india",
+    flag: IndiaFlag,
+  },
+  {
     label: "Itália",
     value: "italy",
     flag: ItalyFlag,
   },
+  
 ];
 
 export default COUNTRIES;
