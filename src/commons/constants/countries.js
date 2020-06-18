@@ -20,6 +20,10 @@ const COUNTRIES = [
     value: "spain",
     flag: BrazilFlag,
   },
+  { label: "Russia",
+    value: "russia",
+    flag: BrazilFlag,
+  },
   {
     label: "China",
     value: "china",
