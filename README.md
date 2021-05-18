@@ -11,6 +11,7 @@ Bibliotecas e tecnologias utilizadas:
 - Reactjs;
 - PWA;
 - Material UI;
+- JavaScript;
 
 ```javascript
 const headers = {
